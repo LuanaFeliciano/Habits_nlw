@@ -17,3 +17,7 @@ Tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+## 👀 Visualize o Projeto
+
+https://luanafeliciano.github.io/Habits_nlw/
+
